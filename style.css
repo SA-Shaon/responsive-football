@@ -47,8 +47,8 @@ header h1{
     
 }
 header>.header-container>.header-text>.btn:hover{
-    transform: scale(1.2);
-     transition: transform .3s linear;; 
+    font-size: 1.2em;
+     transition: font-size .3s linear; 
     
 }
 
